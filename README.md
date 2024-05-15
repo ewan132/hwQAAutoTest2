@@ -1,1 +1,1 @@
-# Home Work Ivan Kuznetsov [![Build status](https://ci.appveyor.com/api/projects/status/eas6ftg5xrio38hr?svg=true)](https://ci.appveyor.com/project/olr3ku601d/hwqaautotest2)
+[![Java CI with Gradle](https://github.com/ewan132/hwQAAutoTest2/actions/workflows/gradle.yml/badge.svg)](https://github.com/ewan132/hwQAAutoTest2/actions/workflows/gradle.yml)
